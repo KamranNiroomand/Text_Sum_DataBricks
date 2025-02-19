@@ -30,15 +30,15 @@ Potential Future Improvements & Optimizations
 
 Improve AI Summarization Quality
 Fine-tune GPT prompts for better insurance-specific summaries.
+
 Use GPT-4-Turbo to reduce cost per token.
 Optimize Costs & Token Usage
+
 Implement shorter prompt engineering to reduce OpenAI API costs.
 Use semantic similarity filtering to avoid redundant API calls.
-Implement Caching for Faster API Responses
-Store summaries in Redis or Azure Cache to reduce duplicate API calls.
+
 Automate Pipeline with Azure Data Factory
 Use Azure Data Factory (ADF) to schedule and orchestrate pipeline tasks.
-Implement Sentiment Analysis
-Enhance insights by analyzing positive vs. negative sentiment in claims.
+
 Deploy to Kubernetes for Scaling
 Use Azure Kubernetes Service (AKS) to dynamically scale API traffic.
