@@ -18,11 +18,6 @@ Use Azure OpenAI to generate concise, structured summaries. Summarization logic 
 API for Retrieving Summaries:
 Serve summarized data via an API using Azure Functions and deploy API using Azure Functions
 
-following command cna be used for testing 
-curl -X POST "http://localhost:7071/api/summarize" \
-     -H "Content-Type: application/json" \
-     -d '{"text": "Customer had an accident and filed a claim."}
-
 Design Decisions & Justifications
 
 Batch Processing for Large Datasets
