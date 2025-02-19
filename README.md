@@ -1,7 +1,5 @@
 # Text_Sum_DataBricks
 
-Project Overview
-
 This project implements an end-to-end AI and data solution. The goal is to ingest unstructured text data, apply structured processing using Databricks, and generate AI-powered summaries using Azure OpenAI. 
 Architecture Overview
 
