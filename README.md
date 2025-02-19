@@ -2,8 +2,7 @@
 
 Project Overview
 
-This project implements an end-to-end AI and data solution for Rival Insurance Technology. The goal is to ingest unstructured text data, apply structured processing using Databricks, and generate AI-powered summaries using Azure OpenAI. Finally, an API is built to serve the summarized data.
-
+This project implements an end-to-end AI and data solution. The goal is to ingest unstructured text data, apply structured processing using Databricks, and generate AI-powered summaries using Azure OpenAI. 
 Architecture Overview
 
 This project follows Medallion Architecture (Bronze → Silver → Gold) to ensure structured and scalable data transformation.
