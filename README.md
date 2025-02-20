@@ -1,8 +1,5 @@
 # Text_Sum_DataBricks
 
-This project implements an end-to-end AI and data solution. The goal is to ingest unstructured text data, apply structured processing using Databricks, and generate AI-powered summaries using Azure OpenAI. 
-Architecture Overview
-
 This project follows Medallion Architecture (Bronze → Silver → Gold) to ensure structured and scalable data transformation.
 
 Bronze Layer → Stores raw, unstructured text data as-is.
